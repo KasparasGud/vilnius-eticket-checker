@@ -18,7 +18,7 @@ const VilniusCardChecker = require('vilniuseticket')
 VilniusCardChecker.checkCard('0157912457').then(res => console.log(res))
 ```
 
-##Todo
+## Todo
 
 - [x] Get HTML information about the card
 - [ ] Parse the reponse and categorize into different ticket types
