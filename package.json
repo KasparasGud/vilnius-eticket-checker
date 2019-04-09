@@ -1,0 +1,22 @@
+{
+  "name": "vilniuseticket",
+  "version": "1.0.1",
+  "description": "Unofficial api to check the balance of the Vilnius E.ticket card. Returns HTML with the balance of the card and available tickets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KasparasGud/vilnius-eticket-checker.git"
+  },
+  "author": "Kasparas Gudžius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KasparasGud/vilnius-eticket-checker/issues"
+  },
+  "homepage": "https://github.com/KasparasGud/vilnius-eticket-checker#readme",
+  "dependencies": {
+    "zombie": "^6.1.4"
+  }
+}
